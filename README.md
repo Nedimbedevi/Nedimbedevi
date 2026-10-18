@@ -44,11 +44,12 @@ A mobile-first digital menu designed for a local business, presenting product na
 **Focus:** Responsive web design and practical digital experiences  
 **Status:** Project repository is currently private.
 
-### Restaurant QR Platform
-A QR-based platform concept for cafes, restaurants, and other food-service businesses. The planned direction includes QR access to menus and bills, with features such as split-check options and adaptable business configurations.
+### Restaurant QR Platform — QR Pay at Table
+A platform concept for cafes, restaurants, and other food-service businesses. The planned experience lets guests access a bill through a QR code and offers split-check options, with a responsive guest flow and clear staff-side payment status.
 
-**Focus:** QR customer experiences and restaurant operations  
-**Status:** In development; planned features are not represented as completed functionality. Repository is private.
+**Focus:** QR bill access, pay-at-table workflows, split-check options, and adaptable business configuration  
+**Documentation:** English, Turkish, and Arabic  
+**Status:** In development; planned capabilities are not presented as completed functionality. Repository is private.
 
 ### Atlas Lost & Found — University Project
 A proposed web and mobile application to help university students report lost or found belongings and connect items with their rightful owners as quickly and safely as possible.
