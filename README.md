@@ -1,84 +1,62 @@
-# Hi, I'm Muhammed Nedim Bedevi 👋
+# Muhammed Nedim Bedevi
+### Software Engineering Student · Data Analytics · AI & Web Development
 
-### Software Engineering Student | Data Analytics | AI Development
+I am a Software Engineering student at **Istanbul Atlas University** interested in building practical software, turning data into useful insights, and exploring AI-powered applications. I enjoy working across problem analysis, implementation, and user-focused product development.
 
-I'm a Software Engineering student at **Istanbul Atlas University** with an interest in building practical software, analyzing data, and exploring AI-powered applications.
+**Current focus:** Python data analysis, web application development, and learning more about AI agents and Salesforce Agentforce.
 
-My current focus includes Python-based data analysis, web development, and strengthening my foundations in algorithms, data structures, and object-oriented programming. I'm especially interested in Salesforce Agentforce, intelligent CRM solutions, natural language processing, and workflow automation.
-
-- 🎓 B.Sc. in Software Engineering — Istanbul Atlas University (2023–present)
-- 📊 Data analysis with Python, Pandas, NumPy, and visualization tools
-- 💻 Building web applications and practical software projects
-- 🤖 Exploring AI agents, NLP, and Salesforce Agentforce
-- 🌍 Interested in remote internship opportunities and collaborative projects
+- 🎓 **Education:** Software Engineering, Istanbul Atlas University (2023–present)
+- 📊 **Data:** Exploratory data analysis, data cleaning, statistical analysis, and visualization
+- 🌐 **Development:** Web applications and digital tools for real-world use cases
+- 🤖 **Interests:** AI agents, NLP, CRM solutions, and workflow automation
+- 🌍 **Open to:** Relevant internship opportunities and collaborative projects
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Toolkit
 
-| Category | Technologies and Skills |
+| Area | Skills |
 |---|---|
-| Programming | Python, Java, JavaScript, C |
-| Data Analytics | Pandas, NumPy, Matplotlib, Seaborn, EDA, data cleaning, preprocessing, statistical analysis |
-| Web Development | HTML, CSS, JavaScript, Node.js |
-| Databases | SQL |
-| Tools | Jupyter Notebook, NetBeans, WebStorm, Git, GitHub |
-| Areas of Interest | Salesforce and CRM, AI agents, NLP, neural networks, workflow automation |
+| **Languages** | Python, Java, JavaScript, C, SQL |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, EDA, preprocessing, statistical analysis |
+| **Web Development** | HTML, CSS, JavaScript, Node.js |
+| **Tools** | Jupyter Notebook, Git, GitHub, NetBeans, WebStorm |
+| **Exploring** | Salesforce Agentforce, AI agents, NLP, neural networks, workflow automation |
 
----
+## Selected Projects
 
-## 🚀 Featured Projects
+### CRISPYFIT Restaurant Ordering System
+A multilingual restaurant ordering application with Turkish, English, and Arabic support, a product catalog, cart, order submission, database persistence, and an admin order-management flow.
 
-### 📱 QR Menu Website
-Designed and developed a QR-code-based digital menu website for a real business, allowing customers to view menu information on their phones.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL  
+**Status:** Project repository is currently private.
 
-**Focus:** Web development, user experience, practical business solutions.
+### Waffle Durağı — QR Menu
+A mobile-first digital menu designed for a local business, presenting product names, prices, and ingredients in a responsive interface.
 
-### 🛒 Sales Website
-Designed and developed a website for a real business to showcase and sell its products online.
+**Focus:** Responsive web design and practical digital experiences  
+**Status:** Project repository is currently private.
 
-**Focus:** Web development and digital commerce.
+### Restaurant QR Platform
+A restaurant-focused QR platform project currently maintained in a private repository.
 
-### 🔎 Atlas Lost and Found
-A web and mobile application in development to help users report, search for, and recover lost items.
+### Sales Data Analysis
+A Python-based analysis project focused on cleaning data, exploring patterns, and communicating findings through visualizations.
 
-**Focus:** Application development and problem solving.
+**Stack:** Python, Pandas, NumPy, Matplotlib
 
-### 📈 Sales Data Analysis
-Used Python to clean and analyze a structured sales dataset, perform exploratory data analysis (EDA), and visualize trends and patterns.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib.
-
-**Focus:** Data analytics, pattern recognition, and business insights.
-
----
-
-## 🎯 Current Goals
-
-- Strengthen my software engineering and data analytics skills.
-- Build reliable, well-documented projects that solve real-world problems.
-- Explore AI-powered applications, intelligent automation, and CRM workflows.
-- Learn more about Salesforce Agentforce and related development tools.
-- Collaborate with developers and contribute to meaningful projects.
-
----
-
-## 🌐 Languages
+## Languages
 
 - Turkish — Native
 - Arabic — Native
-- English — Upper-intermediate (B2)
+- English — B2 (Upper-intermediate)
+
+## Contact
+
+- **Email:** [nedimbedevi3434@gmail.com](mailto:nedimbedevi3434@gmail.com)
+- **GitHub:** [github.com/Nedimbedevi](https://github.com/Nedimbedevi)
+- **Location:** Istanbul, Türkiye
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 Email: [nedimbedevi3434@gmail.com](mailto:nedimbedevi3434@gmail.com)
-- 📍 Istanbul, Türkiye
-- 💼 GitHub: [@Nedimbedevi](https://github.com/Nedimbedevi)
-
-I'm open to learning opportunities, collaborative projects, and remote software development internships.
-
----
-
-*Thanks for visiting my profile!*
+*I value clear documentation, continuous learning, and building software that solves real problems.*
