@@ -66,7 +66,7 @@ A Python-based analysis project focused on cleaning data, exploring patterns, an
 
 - Turkish — Native
 - Arabic — Native
-- English — B2 (Upper-intermediate)
+- English — C1
 
 ---
 
