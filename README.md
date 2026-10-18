@@ -32,8 +32,8 @@ I am a Software Engineering student at **Istanbul Atlas University** interested 
 
 ## Selected Projects
 
-### CRISPYFIT Restaurant Ordering System
-A multilingual restaurant ordering application with Turkish, English, and Arabic support, a product catalog, cart, order submission, database persistence, and an admin order-management flow.
+### CRISPYFIT — Fit Chicken & Healthy Meal Ordering Platform
+A multilingual ordering platform for a healthy-meal business, with Turkish, English, and Arabic support. The project focuses on product browsing, cart and order submission, database persistence, and an admin order-management flow.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL  
 **Status:** Project repository is currently private.
@@ -45,7 +45,16 @@ A mobile-first digital menu designed for a local business, presenting product na
 **Status:** Project repository is currently private.
 
 ### Restaurant QR Platform
-A restaurant-focused QR platform project currently maintained in a private repository.
+A QR-based platform concept for cafes, restaurants, and other food-service businesses. The planned direction includes QR access to menus and bills, with features such as split-check options and adaptable business configurations.
+
+**Focus:** QR customer experiences and restaurant operations  
+**Status:** In development; planned features are not represented as completed functionality. Repository is private.
+
+### Atlas Lost & Found — University Project
+A proposed web and mobile application to help university students report lost or found belongings and connect items with their rightful owners as quickly and safely as possible.
+
+**Focus:** Lost-item reporting, owner matching, and a secure, user-friendly campus experience  
+**Status:** University project; repository is private.
 
 ### Sales Data Analysis
 A Python-based analysis project focused on cleaning data, exploring patterns, and communicating findings through visualizations.
