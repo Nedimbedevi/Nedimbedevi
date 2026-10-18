@@ -9,7 +9,7 @@ I am a Software Engineering student at **Istanbul Atlas University** interested 
 - 📊 **Data:** Exploratory data analysis, data cleaning, statistical analysis, and visualization
 - 🌐 **Development:** Web applications and digital tools for real-world use cases
 - 🤖 **Interests:** AI agents, NLP, CRM solutions, and workflow automation
-- 💼 **Open to opportunities:** Full-time and part-time roles, junior/entry-level positions, internships, and project-based work in software development, web development, data analytics, and related technical fields. Interested in remote and hybrid opportunities, as well as suitable on-site roles.
+- 💼 **Open to:** Entry-level opportunities in software development and data analytics, including remote and hybrid roles.
 
 ## Find Me Online
 
