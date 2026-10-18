@@ -11,6 +11,13 @@ I am a Software Engineering student at **Istanbul Atlas University** interested 
 - 🤖 **Interests:** AI agents, NLP, CRM solutions, and workflow automation
 - 🌍 **Open to:** Relevant internship opportunities and collaborative projects
 
+## Find Me Online
+
+- **LinkedIn:** [linkedin.com/in/nedim-bedevi-74a188297](https://www.linkedin.com/in/nedim-bedevi-74a188297/)
+- **Indeed:** [Indeed professional profile](https://profile.indeed.com/?hl=tr_TR&co=TR&from=gnav-homepage)
+- **GitHub:** [github.com/Nedimbedevi](https://github.com/Nedimbedevi)
+- **Email:** [nedimbedevi3434@gmail.com](mailto:nedimbedevi3434@gmail.com)
+
 ---
 
 ## Technical Toolkit
@@ -50,12 +57,6 @@ A Python-based analysis project focused on cleaning data, exploring patterns, an
 - Turkish — Native
 - Arabic — Native
 - English — B2 (Upper-intermediate)
-
-## Contact
-
-- **Email:** [nedimbedevi3434@gmail.com](mailto:nedimbedevi3434@gmail.com)
-- **GitHub:** [github.com/Nedimbedevi](https://github.com/Nedimbedevi)
-- **Location:** Istanbul, Türkiye
 
 ---
 
